@@ -14,16 +14,10 @@
     "dapps-react-ui": "0.0.684",
     "expose-loader": "^0.7.1",
     "json-loader": "^0.5.4",
-
-
-
-    "oo7": "^0.1.2",
-    "oo7-parity": "^0.1.2",
-    "oo7-react": "^0.1.2",
-    "parity-reactive-ui": "^0.1.2",
-
-
-
+    "oo7": "file:../../Core/oo7",
+    "oo7-parity": "file:../../Core/oo7-parity",
+    "oo7-react": "file:../../Core/oo7-react",
+    "parity-reactive-ui": "file:../../Core/parity-reactive-ui",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
     "react-tap-event-plugin": "^2.0.1",
